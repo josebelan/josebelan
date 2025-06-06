@@ -1,4 +1,4 @@
-<p align="left">My Stats</p>
+<h2 align="left">My Stats</h2>
 
 ###
 
